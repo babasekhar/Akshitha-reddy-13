@@ -1,10 +1,12 @@
 # Akshitha-Reddy
-<img alt="Banner" width="5000" src="cybersecurity framework.webp">
+<img alt="Banner" src="(https://csiac.org/wp-content/uploads/bb-plugin/cache/AI-banner-panorama-5a05f2f53a50e00d19e150691d874783-6074583e2c67e.jpg)
+">
 <h1 align="center">Hello/ Konichiwa 👋, I'm Akshitha Reddy</h1>
-<h3 align="center">"Fortifying Code, Protecting Dreams: Defenders of 🧑‍💻Cyber Sanctity."</h3>
+<h3 align="center">"AI and ML enthusiast: Coding the future of automation and intelligence."</h3>
 <img align="right" alt="Hacking" width="400" src="cybercomputer.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=babasekhar&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Akshitha-reddy-13/Akshitha-reddy-13/blob/main/AI-banner.jpg)" alt="AK" /> </p>
+<p align="left"> <img src="![image](https://github.com/Akshitha-reddy-13/Akshitha-reddy-13/assets/122172211/f509e683-8d00-4d2b-8117-7ecb0a3538b0)
+" alt="AK" /> </p>
 
 <p align="left"> <a href="https://twitter.com/babasekhar2121" target="blank"><img src="https://img.shields.io/twitter/follow/babasekhar2121?logo=twitter&style=for-the-badge" alt="babasekhar2121" /></a> </p>
 
