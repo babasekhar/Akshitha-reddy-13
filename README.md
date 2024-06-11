@@ -1,6 +1,7 @@
+
 # Akshitha-Reddy
-<img alt="Banner" src="(https://csiac.org/wp-content/uploads/bb-plugin/cache/AI-banner-panorama-5a05f2f53a50e00d19e150691d874783-6074583e2c67e.jpg)
-">
+<img alt="Banner" src="https://csiac.org/wp-content/uploads/bb-plugin/cache/AI-banner-panorama-5a05f2f53a50e00d19e150691d874783-6074583e2c67e.jpg">
+
 <h1 align="center">Hello/ Konichiwa 👋, I'm Akshitha Reddy</h1>
 <h3 align="center">"AI and ML enthusiast: Coding the future of automation and intelligence."</h3>
 <img align="right" alt="Hacking" width="400" src="cybercomputer.gif">
